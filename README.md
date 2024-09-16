@@ -1,2 +1,2 @@
 # ansible-azcli-runner
-Container with Ansible and the Azure CLI installed
+Custom container for running Ansible playbooks with the Azure CLI and dependencies installed. Uses Ubuntu as the base image.
